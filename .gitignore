@@ -1,0 +1,5 @@
+# This folder can be copied into a separate public GitHub Pages repository.
+# Keep staff-only portal source and host-specific headers out of that repository.
+/admin-link-review/
+/_headers
+/_site/
